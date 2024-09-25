@@ -4,6 +4,10 @@
 
 # AI Chat Application
 
+![Chat Interface](./images/screenshot1.png)
+![Chat Interface](./images/screenshot2.png)
+![Chat Interface](./images/screenshot3.png)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
